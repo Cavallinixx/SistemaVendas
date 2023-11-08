@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SistemaVendasLivros
 {
-    internal class model_Livro
+    internal class modelLivro
     {
     }
 }

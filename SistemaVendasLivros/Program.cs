@@ -10,10 +10,16 @@ namespace SistemaVendasLivros
     {
         static void Main(string[] args)
         {
-            control controle = new control();
-            controle.Operacao();
+            controlLogin controle = new controlLogin();
+            controlLivro controleLivro = new controlLivro();
+            controlEstoque controleEstoque = new controlEstoque();
+            controlReserva controlReserva = new controlReserva();
+            
+            controle.OperacaoMenu();
 
             Console.ReadLine();//Manter o Prompt Aberto
         }//fim do método main
     }//fim da classe
+
+    
 }//fim do projeto

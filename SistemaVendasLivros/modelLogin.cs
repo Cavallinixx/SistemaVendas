@@ -29,8 +29,8 @@ namespace SistemaVendasLivros
             i = 0;
             vetor = new int[10];
             cadastroNovo = 0;
-            ConsultarLogin = 0;
-            
+            ConsultarLogin = 0; ;
+
 
 
         }//fim do construtor
@@ -60,5 +60,6 @@ namespace SistemaVendasLivros
             }//fim do for
             return ConsultarLogin / i;
         }//fim método
+
     }// fim da classe 
 }//fim projeto 

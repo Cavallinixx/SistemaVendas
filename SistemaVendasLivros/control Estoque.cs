@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SistemaVendasLivros
 {
-    class MenuPrincipal
+    internal class controlEstoque
     {
 
     }

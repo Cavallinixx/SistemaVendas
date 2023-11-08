@@ -10,9 +10,9 @@ namespace SistemaVendasLivros
     {
         model modelo;
         private int opcao;
-        public control()
+        public controlLogin()
         {
-            this.modelo = new model();//Criando uma chave
+            modelo = new model();//Criando uma chave
             ConsultarOpcao = -1;
         }//fim do construtor
 
@@ -30,7 +30,7 @@ namespace SistemaVendasLivros
             ConsultarOpcao = Convert.ToInt32(Console.ReadLine());
         }//fim do menu
 
-        public void Operacao()
+        public void OperacaoMenu()
         {
             do
             {
@@ -41,7 +41,7 @@ namespace SistemaVendasLivros
                         Console.WriteLine("Obrigado!");
                         break;
                     case 1:
-                        Console.WriteLine(this.modelo.ConsultarLogin());
+                        Console.WriteLine(modelo.ConsultarLogin());
                         break;
                     default:
                         Console.WriteLine("Erro, escolha uma opção valida!");
