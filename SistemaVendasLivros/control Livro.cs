@@ -5,8 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace SistemaVendasLivros
-{
+
+
+        public string livros;
+        public string decimal[];
     internal class controlLivro
     {
+        
     }
 }

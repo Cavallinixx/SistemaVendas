@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SistemaVendasLivros
 {
-    internal class controlLogin
+    internal class controlUsuario
     {
     }
 }

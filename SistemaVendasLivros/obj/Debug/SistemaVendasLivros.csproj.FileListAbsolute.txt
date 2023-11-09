@@ -1,0 +1,8 @@
+C:\Users\vitor.csouza14\Source\Repos\SistemaVendas\SistemaVendasLivros\bin\Debug\SistemaVendasLivros.exe.config
+C:\Users\vitor.csouza14\Source\Repos\SistemaVendas\SistemaVendasLivros\bin\Debug\SistemaVendasLivros.exe
+C:\Users\vitor.csouza14\Source\Repos\SistemaVendas\SistemaVendasLivros\bin\Debug\SistemaVendasLivros.pdb
+C:\Users\vitor.csouza14\Source\Repos\SistemaVendas\SistemaVendasLivros\obj\Debug\SistemaVendasLivros.csproj.AssemblyReference.cache
+C:\Users\vitor.csouza14\Source\Repos\SistemaVendas\SistemaVendasLivros\obj\Debug\SistemaVendasLivros.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor.csouza14\Source\Repos\SistemaVendas\SistemaVendasLivros\obj\Debug\SistemaVendasLivros.csproj.CoreCompileInputs.cache
+C:\Users\vitor.csouza14\Source\Repos\SistemaVendas\SistemaVendasLivros\obj\Debug\SistemaVendasLivros.exe
+C:\Users\vitor.csouza14\Source\Repos\SistemaVendas\SistemaVendasLivros\obj\Debug\SistemaVendasLivros.pdb

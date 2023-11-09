@@ -47,13 +47,13 @@
     <Compile Include="control Estoque.cs" />
     <Compile Include="control Livro.cs" />
     <Compile Include="control Reserva.cs" />
-    <Compile Include="controlLogin.cs" />
+    <Compile Include="controlUsuario.cs" />
     <Compile Include="Menu Principal.cs" />
     <Compile Include="model Cadastro.cs" />
     <Compile Include="model Estoque.cs" />
     <Compile Include="model Livro.cs" />
     <Compile Include="model Reserva.cs" />
-    <Compile Include="modelLogin.cs" />
+    <Compile Include="modelUsuario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
