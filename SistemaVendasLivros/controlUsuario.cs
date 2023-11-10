@@ -8,5 +8,6 @@ namespace SistemaVendasLivros
 {
     internal class controlUsuario
     {
+
     }
 }

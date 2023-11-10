@@ -35,13 +35,12 @@ namespace SistemaVendasLivros
 
         public void MenuLivro()
         {
+            
             Console.WriteLine("Escolha uma das opções abaixo: \n\n" +
                               "0. Sair \n" +
-                              "1. Voar \n" +
-                              "2. Pular\n" +
-                              "3. Sair\n" +
-                              "4. Voar \n" +
-                              "5. Sorrir\n");
+                              "1. Internet R$ 10,00 \n" +
+                              "2. UML  R$ 15,00 \n" +
+                              "3. TI18N  R$ 5,00\n");
             ConsultarOpcao = Convert.ToInt32(Console.ReadLine());
         }//fim do menu
 
@@ -76,8 +75,10 @@ namespace SistemaVendasLivros
                         else
                         
                         {
-                            Console.WriteLine(" Bem vindo ao Menu, escolha o livro desejado: ");
-                            Console.WriteLine()
+                            Console.WriteLine(" Bem vindo ao Menu!! ");
+                            MenuLivro();
+                            opcao = Convert.ToInt32(Console.ReadLine());
+                            
 
                         }
                             break;

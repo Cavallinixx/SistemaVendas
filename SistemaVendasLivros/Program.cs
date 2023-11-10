@@ -13,11 +13,13 @@ namespace SistemaVendasLivros
             
             Menu_Principal controle = new Menu_Principal();
             controlUsuario controleLogin = new controlUsuario();
-            controlLivro controleLivro = new controlLivro();
+            control_Livro controleLivro = new control_Livro();
             controlEstoque controleEstoque = new controlEstoque();
             controlReserva controlReserva = new controlReserva();
-             Menu_Principal UsuarioUm = new  Menu_Principal();
+            Menu_Principal UsuarioUm = new  Menu_Principal();
             Menu_Principal senhaUm = new Menu_Principal();
+            Menu_Principal MenuLivro = new Menu_Principal();
+
             
             controle.Operacao();
 
